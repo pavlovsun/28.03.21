@@ -1,0 +1,12 @@
+@media all and (max-device-width: 767px) {
+    body{
+        background:none;
+    }
+    #Text{
+        margin-top: 0%;
+    }
+    h2 {
+        font-family: 'Roboto', sans-serif !important;
+        font-size: 1.1vw;
+    }
+}

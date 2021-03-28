@@ -1,0 +1,16 @@
+/* CERTIFACATE */
+/*
+body{
+    background-color: antiquewhite;
+}
+*/
+.imgcerf img{
+    width: 100%;
+    box-shadow: var(--box-shadow);
+}
+.imgcerf{
+    display: grid;
+    grid-gap: 5%;/*Отступ для grid*/
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 5%;
+}

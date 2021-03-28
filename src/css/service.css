@@ -1,0 +1,10 @@
+/* SERVIS */
+body{
+    background: url(../img/Bg/bgService.jpg);
+    background-size: 100%;
+    background-position: 0% 1.5%;
+}
+#Text{
+    margin-top: 5%;
+    text-align: center;
+}
